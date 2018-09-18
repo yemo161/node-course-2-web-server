@@ -1,0 +1,6 @@
+node_modules/
+serve.log
+.idea/
+package-lock.json
+server.js
+server.js.map
